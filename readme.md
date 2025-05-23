@@ -86,4 +86,6 @@ endpoint para obter o resumo dos pedidos:
     ``
 exemplo de customerId: 1
 
-Para maior entendimento do projeto acesse : [Build&Run Desafio Backend BTG Pactual](https://www.youtube.com/watch?v=e_WgAB0Th_I&t=11s)
+Para maior entendimento do projeto acesse :
+- [Build&Run Desafio Backend BTG Pactual](https://www.youtube.com/watch?v=e_WgAB0Th_I&t=11s)
+- [Build&Run Desafio Backend BTG Pactual Part 2](https://www.youtube.com/watch?v=tL53Pk4gu-g)
